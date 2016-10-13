@@ -1,7 +1,7 @@
-1) I do not see a project abstract (-14)
+1) An Abstract should tell what your are making AND why you are making the project. -1
 2) Team Memebrs listed, thank you.
 3) I have the repository link.
-4) I do not see any description. (-14)
+4) Good.
 5) poor UI mock up.  Where is the main game screen? (-10)
 6) Division of labor there, good.
 7) UML use case is there.
