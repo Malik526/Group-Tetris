@@ -231,7 +231,7 @@ public class Tetris extends JPanel {
 		g.setColor(Color.WHITE);
 		g.drawString("" + score, 19*8, 25);
 		
-		// Draw the currently falling piece
+		// Draw the currently falling piece or display Game Over if piece reaches origin
 		if((collidesAt(pieceOrigin.x, pieceOrigin.y, rotation))){
 			g.setColor(Color.WHITE);
 			g.drawString("Game Over", 19*8, 250);
